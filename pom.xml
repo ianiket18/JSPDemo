@@ -53,7 +53,7 @@
         	<execution>
         		<phase>pre-integration-test</phase>
         		<goals>
-        			<goal>redeploy</goal>
+        			<goal>redeploy server</goal>
         		</goals>
         	</execution>
         </executions>
